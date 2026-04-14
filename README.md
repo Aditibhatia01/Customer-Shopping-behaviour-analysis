@@ -34,8 +34,6 @@ Average Purchase Amount: $59.76
 
 Average Review Rating: 3.75 ⭐
 
-Total Revenue: ~$233K (Calculated across categories)
-
 👉 These KPIs provide an immediate health check of the retail operations.
 
 4. Key Visuals & What They Show
