@@ -82,3 +82,5 @@ links:
  for python pdf:  https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customershoppingbehavior%2Cipynb%20file%20in%20pdf.pdf
 
 for SQL queries : https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20sql%20queries.sql
+
+for powerBI Dashboard: https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20dashboard.pbix
