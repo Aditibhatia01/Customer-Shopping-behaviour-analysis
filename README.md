@@ -78,4 +78,7 @@ Shipping Optimization: If "Free Shipping" is driving high volume but lower margi
 
 Summary (One-Liner): 🛒 This dashboard helps retailers optimize category performance, increase subscription loyalty, and target high-value demographics using data-backed insights.
 links:
-https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20sql%20queries.sql
+
+ for python pdf:  https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customershoppingbehavior%2Cipynb%20file%20in%20pdf.pdf
+
+for SQL queries : https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20sql%20queries.sql
