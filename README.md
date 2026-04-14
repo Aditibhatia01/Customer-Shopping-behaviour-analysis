@@ -77,3 +77,5 @@ Targeted Ads: Focus social media ad spend on the "Young Adult" (18-35) demograph
 Shipping Optimization: If "Free Shipping" is driving high volume but lower margins, consider a minimum purchase threshold based on the $59.76 average spend.
 
 Summary (One-Liner): 🛒 This dashboard helps retailers optimize category performance, increase subscription loyalty, and target high-value demographics using data-backed insights.
+links:
+https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20sql%20queries.sql
