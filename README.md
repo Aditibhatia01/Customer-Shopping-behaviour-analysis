@@ -83,4 +83,4 @@ links:
 
 for SQL queries : https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20sql%20queries.sql
 
-for powerBI Dashboard: https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer_behaviour%20dashboard.pbix
+for powerBI Dashboard: https://github.com/Aditibhatia01/Customer-Shopping-behaviour-analysis/blob/main/customer%20behaviour%20dashboard.png
